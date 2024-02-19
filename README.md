@@ -1,6 +1,6 @@
-# Intro to Ray with Examples 
-## Brief overview of Data, Model and Pipeline Parallelism
-## Systems Optimization for Neural Network Training and Inference using Pytorch Lightning, Ray Tune, and the Pytorch Intel Extension for CPU
+### Intro to Ray with Examples 
+-  Brief overview of Data, Model and Pipeline Parallelism
+- Systems Optimization for Neural Network Training and Inference using Pytorch Lightning, Ray Tune, and the Pytorch Intel Extension for CPU
 
 
 For evening of python coding meetups that were held in Austin TX alongside the [Austin python meetup](https://www.meetup.com/austinpython/) and [DC Python meetup](https://www.meetup.com/dcpython/).
